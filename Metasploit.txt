@@ -1,0 +1,3 @@
+pkg install unstable-repo
+pkg install metasploit
+pkg install curl
